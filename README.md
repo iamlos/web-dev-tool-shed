@@ -12,6 +12,7 @@ A curated collection of resources for those developing for the web.
 * [Design Details](http://designdetails.fm/)
 * [JavaScript Jabber](http://devchat.tv/js-jabber/)
 * [ShopTalk](http://shoptalkshow.com/)
+* [The Big Web Show](http://5by5.tv/bigwebshow)
 * [The Boagworld Web Show](https://boagworld.com/show/)
 * [The Nitch Podcast](http://nitch.cc/podcast/)
 * [The Web Ahead](http://5by5.tv/webahead)
