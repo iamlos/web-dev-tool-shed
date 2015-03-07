@@ -1,4 +1,4 @@
-# Web Developer Resources
+# Web Dev Tool Shed
 A curated collection of resources for those developing for the web.
 
 ## Date/Time
