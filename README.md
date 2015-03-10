@@ -11,6 +11,9 @@ A curated collection of resources for those developing for the web.
 ## Forms
 * [Select2](http://ivaynberg.github.io/select2/)
 
+## PHP
+* [PHP Best Practices](https://phpbestpractices.org/)
+
 ## Podcasts
 * [Design Details](http://designdetails.fm/)
 * [JavaScript Jabber](http://devchat.tv/js-jabber/)
