@@ -1,6 +1,10 @@
 # Web Dev Tool Shed
 A curated collection of resources for those developing for the web.
 
+## Application Cache
+* [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
+* [‘Fixing’ the application cache with an iframe](http://labs.ft.com/2012/11/using-an-iframe-to-stop-app-cache-storing-masters/)
+
 ## Build Tools
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
