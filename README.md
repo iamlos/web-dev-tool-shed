@@ -12,6 +12,8 @@ A curated collection of resources for those developing for the web.
 * Preprocessors
 	* [Less.js](http://lesscss.org/)
 	* [Sass](http://sass-lang.com/)
+* Sprites
+	* [Sprite Cow](http://www.spritecow.com/)
 
 ## Date/Time
 * [FullCalendar](http://fullcalendar.io/)
