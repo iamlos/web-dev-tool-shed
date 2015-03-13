@@ -23,5 +23,8 @@ A curated collection of resources for those developing for the web.
 * [The Nitch Podcast](http://nitch.cc/podcast/)
 * [The Web Ahead](http://5by5.tv/webahead)
 
+## Web Storage
+* [localStorageDB](https://github.com/knadh/localStorageDB)
+
 # Contributing
 Your contributions are always welcome!
