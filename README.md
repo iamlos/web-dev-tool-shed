@@ -26,6 +26,9 @@ A curated collection of resources for those developing for the web.
 ## Forms
 * [Select2](http://ivaynberg.github.io/select2/)
 
+## HTML5
+* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
+
 ## PHP
 * [PHP Best Practices](https://phpbestpractices.org/)
 
