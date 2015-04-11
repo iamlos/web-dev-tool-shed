@@ -32,6 +32,16 @@ A curated collection of resources for those developing for the web.
 ## PHP
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [PHP: The Right Way](http://www.phptherightway.com/)
+* Frameworks
+	* [Aura](http://auraphp.com/)
+	* [CakePHP](http://cakephp.org/)
+	* [CodeIgniter](http://www.codeigniter.com/)
+	* [Laravel](http://laravel.com/)
+	* [Phalcon](http://phalconphp.com/)
+	* [Slim](http://www.slimframework.com/)
+	* [Symfony](http://symfony.com/)
+	* [Yii](http://www.yiiframework.com/)
+	* [Zend](http://framework.zend.com/)
 
 ## Podcasts
 * [Design Details](http://designdetails.fm/)
