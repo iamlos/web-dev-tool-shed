@@ -32,6 +32,7 @@ A curated collection of resources for those developing for the web.
 ## PHP
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [PHP: The Right Way](http://www.phptherightway.com/)
+* [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 * Frameworks
 	* [Aura](http://auraphp.com/)
 	* [CakePHP](http://cakephp.org/)
