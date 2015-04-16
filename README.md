@@ -38,6 +38,7 @@ A curated collection of resources for those developing for the web.
 	* [CakePHP](http://cakephp.org/)
 	* [CodeIgniter](http://www.codeigniter.com/)
 	* [Laravel](http://laravel.com/)
+	* [Lumen](http://lumen.laravel.com/)
 	* [Phalcon](http://phalconphp.com/)
 	* [Slim](http://www.slimframework.com/)
 	* [Symfony](http://symfony.com/)
