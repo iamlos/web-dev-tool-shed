@@ -13,6 +13,9 @@ A curated collection of resources for those developing for the web.
 
 ## CSS
 * [CSS-Tricks](http://css-tricks.com/)
+* Animations
+	* [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/)
+	* [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
 * Preprocessors
 	* [Less.js](http://lesscss.org/)
 	* [Sass](http://sass-lang.com/)
