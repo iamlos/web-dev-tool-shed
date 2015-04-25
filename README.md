@@ -11,6 +11,10 @@ A curated collection of resources for those developing for the web.
 	* [Gulp Recipes](https://github.com/gulpjs/gulp/tree/master/docs/recipes#recipes)
 * [Yeoman](http://yeoman.io/)
 
+## Carousels
+* [OWL Carousel](http://owlgraphic.com/owlcarousel/)
+* [slick](http://kenwheeler.github.io/slick/)
+
 ## CSS
 * [CSS-Tricks](http://css-tricks.com/)
 * Animations
