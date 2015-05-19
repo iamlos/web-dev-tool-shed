@@ -5,7 +5,8 @@ A curated collection of resources for those developing for the web.
 * [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
 * [‘Fixing’ the application cache with an iframe](http://labs.ft.com/2012/11/using-an-iframe-to-stop-app-cache-storing-masters/)
 
-## Build Tools
+## Build, Scaffolding & Package Management Tools
+* [Bower](http://bower.io/)
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
 	* [Gulp Recipes](https://github.com/gulpjs/gulp/tree/master/docs/recipes#recipes)
