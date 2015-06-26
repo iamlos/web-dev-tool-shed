@@ -71,6 +71,7 @@ A curated collection of resources for those developing for the web.
 * [WordPress.com](https://wordpress.com/)
 * Plugins
 	* [WordPress.org Plugin Directory](https://wordpress.org/plugins/)
+	* [Add Admin CSS](https://wordpress.org/plugins/add-admin-css/)
 	* [WooCommerce](http://www.woothemes.com/woocommerce/)
 		* [WordPress > WooCommerce](https://wordpress.org/plugins/woocommerce/)
 		* Extensions
