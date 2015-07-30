@@ -71,7 +71,9 @@ A curated collection of resources for those developing for the web.
 * [WordPress.com](https://wordpress.com/)
 * Plugins
 	* [WordPress.org Plugin Directory](https://wordpress.org/plugins/)
-	* [Add Admin CSS](https://wordpress.org/plugins/add-admin-css/)
+		* [Add Admin CSS](https://wordpress.org/plugins/add-admin-css/)
+		* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
+		* [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/)
 	* [WooCommerce](http://www.woothemes.com/woocommerce/)
 		* [WordPress > WooCommerce](https://wordpress.org/plugins/woocommerce/)
 		* Extensions
