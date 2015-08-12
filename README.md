@@ -32,6 +32,9 @@ A curated collection of resources for those developing for the web.
 * [FullCalendar](http://fullcalendar.io/)
 * [Moment.js](http://momentjs.com/)
 
+## Deployment
+ * [DPLOY](http://leanmeanfightingmachine.github.io/dploy/)
+
 ## Forms
 * [Select2](http://ivaynberg.github.io/select2/)
 
