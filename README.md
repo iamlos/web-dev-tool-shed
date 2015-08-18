@@ -66,6 +66,10 @@ A curated collection of resources for those developing for the web.
 * [The Nitch Podcast](http://nitch.cc/podcast/)
 * [The Web Ahead](http://5by5.tv/webahead)
 
+## Security
+* Content Security Policy
+	* [Content Security Policy (CSP) Quick Reference Guide](http://content-security-policy.com/)
+
 ## Web Storage
 * [localStorageDB](https://github.com/knadh/localStorageDB)
 
